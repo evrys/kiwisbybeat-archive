@@ -1,0 +1,156 @@
+/*	RSS stylesheet version 0.1
+	October 23, 2002
+	Grant Neufeld (email: firstname at nisto.com)
+	http://www.nisto.com/standard/rss/
+	
+	This stylesheet will present RSS files in a plain readable format in
+	browsers that understand how to present XML files with a stylesheet.
+	
+	This document's permanent URI:
+	http://www.nisto.com/standard/rss/rss.css
+	
+	This document has been placed in the public domain and may be freely
+	copied or altered.
+	Please keep the original author and URL info in any copies.
+	
+	To include this stylesheet in your RSS file, put the following line
+	immediately after the <?xml version="1.0"?> line:
+	<?xml-stylesheet href="rss.css" type="text/css"?>
+	
+	You'll probably need to change the href to point to wherever you put
+	your copy of this file.
+	
+	This style sheet has been tested with RSS versions 0.91 and 1.0 with
+	the Dublin Core extensions.
+*/
+
+RDF, rss {
+	background-color:white;
+	color:black;
+	display:block;
+	margin:1ex;
+}
+
+description {
+	display:block;
+	font-family:"Geneva","Arial","Helvetica",sans-serif;
+}
+link {
+	font-family:"Geneva","Arial","Helvetica",sans-serif;
+	font-size:small;
+}
+textinput {
+	display:none;
+}
+
+channel {
+	display:block;
+	font-family:"Geneva","Arial","Helvetica",sans-serif;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+channel > title {
+	display:block;
+	font-family:"Verdana","Skia","Arial Narrow",sans-serif;
+	font-size:x-large;
+	font-weight:bold;
+	margin-bottom:1ex;
+	text-align:center;
+}
+channel > link {
+	display:none;
+}
+channel > description {
+	margin-left:2em;
+	margin-top:1ex;
+	margin-bottom:1ex;
+	margin-right:2em;
+	text-align:justify;
+}
+channel > lastBuildDate {
+	display:block;
+	font-size:small;
+}
+channel > lastBuildDate:before {
+	content:"Last updated: ";
+}
+channel > language {
+	display:none;
+}
+channel > publisher {
+	font-size:small;
+}
+channel > publisher:before {
+	content:"Published by ";
+}
+channel > publisher:after {
+	content:".";
+}
+channel > creator {
+	font-size:small;
+}
+channel > creator:before {
+	content:"Authored by ";
+}
+channel > creator:after {
+	content:".";
+}
+channel > rights {
+	font-size:small;
+}
+channel > date {
+	font-size:small;
+}
+channel > date:before {
+	content:"Last published on ";
+}
+channel > date:after {
+	content:".";
+}
+
+channel > image {
+	display:none;
+}
+channel > items {
+	display:none;
+}
+
+RDF > image {
+	display:none;
+}
+image > title {
+	display:none;
+}
+image > link {
+	display:none;
+}
+
+item {
+	display:block;
+	margin-top: 1ex;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+item > title {
+	display:block;
+	font-family:"Verdana","Skia","Arial Narrow",sans-serif;
+	font-size:large;
+	font-weight:bold;
+	text-align:left;
+}
+item > description {
+	display:block;
+	font-family:"Geneva","Arial","Helvetica",sans-serif;
+	margin-left:2em;
+	margin-right:2em;
+	text-align:justify;
+}
+item > link {
+	display:block;
+}
+item > link:before {
+	content: "Link: <";
+}
+item > link:after {
+	content: ">";
+}
