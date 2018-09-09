@@ -19,4 +19,5 @@ Ryan's domain registrations expired in Jan 2016 and [nobody knows what happened 
     - `�������̕��� => 金魚王国の崩壊`
     - `"www.nickstjohn.net/Home.html => "http://www.nickstjohn.net/Home.html`
 - Broken image links from several comics were restored using the existing crowdsourced collection available at https://mega.nz/#F!xAI33KwI!9-dqzpWhZ1b-ohcsK6Mfzg!tUxTFBpA
+- Converted all html files to utf-8 encoding using vim method at https://stackoverflow.com/a/35329638/1983739
 - Archive published using static site host Netlify, configured for lossless image compression but no other asset processing
