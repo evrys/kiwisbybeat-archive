@@ -353,3 +353,13 @@ I haven't (yet) attempted to preserve Ryan's earlier website/comic, Ribald Youth
 - Missing images from several comics were restored using the existing crowdsourced collection available at https://mega.nz/#F!xAI33KwI!9-dqzpWhZ1b-ohcsK6Mfzg!tUxTFBpA
 - Converted all html files to utf-8 encoding using vim method at https://stackoverflow.com/a/35329638/1983739
 - Archive published using static site host Netlify, configured for lossless image compression
+
+## Things I learned from this project
+
+The Internet Archive is an amazing resource and probably deserves a lot more funding than it gets. Though it's not infallible (as we can see from the missing content here), there are whole swathes of cultural history like this that are only publicly preserved at any level of completeness because of the efforts of that institution.
+
+You can make specific queries to archive.org using [wayback_machine_downloader](https://github.com/hartator/wayback-machine-downloader). For example, you might download all jpg images from a site before a given timestamp: `-t 20160124132212 -o .jpg`.
+
+git and GitHub are delightfully flexible tools for solving a wide variety of file manipulation, distribution and history-tracking problems beyond simply revision control for codebases. However, they do have their limits; using git for this is only easy because the archive is relatively small (<1GB).
+
+The existing mirror shows there can be a lot of public interest and effort directed towards cultural archival in some cases. If general audiences had better access to more user-friendly tools with similar power like GitHub and Netlify, I think they could do even more awesome stuff.
