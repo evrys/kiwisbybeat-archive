@@ -8,7 +8,7 @@ This archive is based heavily on the efforts of the existing mirror at http://ki
 
 ## Missing files
 
-The archive.org copy of kiwisbybeat.com is incomplete. Most comics were recovered from other sources by fans in this [Mega folder](https://mega.nz/#F!xAI33KwI!9-dqzpWhZ1b-ohcsK6Mfzg!tUxTFBpA), but some remain an enigma. 
+The archive.org copy of kiwisbybeat.com is incomplete. Most comics were recovered from other sources by fans in this [Mega folder](https://mega.nz/#F!xAI33KwI!9-dqzpWhZ1b-ohcsK6Mfzg!tUxTFBpA), but some remain an enigma.
 
 I've included a script that will go through all the html files and list broken img tags, if you run `node listMissingImages.js`. These files are currently missing, if you are in possession of them please [let me know](mailto:jaiden@mispy.me), or send a pull request to add them:
 
@@ -16,26 +16,6 @@ I've included a script that will go through all the html files and list broken i
 www.kiwisbybeat.com/great/april3.jpg
 www.kiwisbybeat.com/great/april1.jpg
 www.kiwisbybeat.com/great/april2.jpg
-www.kiwisbybeat.com/asad/pg002.gif
-www.kiwisbybeat.com/asad/pg003.gif
-www.kiwisbybeat.com/asad/pg004.gif
-www.kiwisbybeat.com/asad/pg132.gif
-www.kiwisbybeat.com/asad/pg135.gif
-www.kiwisbybeat.com/asad/pg136.gif
-www.kiwisbybeat.com/asad/pg137.gif
-www.kiwisbybeat.com/asad/pg138.gif
-www.kiwisbybeat.com/asad/pg139.gif
-www.kiwisbybeat.com/asad/pg140.gif
-www.kiwisbybeat.com/asad/pg141.gif
-www.kiwisbybeat.com/asad/pg142.gif
-www.kiwisbybeat.com/asad/pg143.gif
-www.kiwisbybeat.com/asad/pg144.gif
-www.kiwisbybeat.com/asad/pg146.gif
-www.kiwisbybeat.com/asad/pg147.gif
-www.kiwisbybeat.com/asad/pg148.gif
-www.kiwisbybeat.com/asad/pg150.gif
-www.kiwisbybeat.com/asad/pg028.gif
-www.kiwisbybeat.com/asad/pg086.gif
 www.kiwisbybeat.com/fist/fist49.png
 www.kiwisbybeat.com/fist/fist50.png
 www.kiwisbybeat.com/fist/fist51.png
@@ -77,16 +57,7 @@ www.kiwisbybeat.com/fist/fist86.png
 www.kiwisbybeat.com/fist/fist87.png
 www.kiwisbybeat.com/fist/fist88.png
 www.kiwisbybeat.com/fist/fist89.png
-www.kiwisbybeat.com/gr/december15.png
-www.kiwisbybeat.com/modern/modern200.jpg
 www.kiwisbybeat.com/modern/modern920.jpg
-www.kiwisbybeat.com/minus/ms.jpg
-www.kiwisbybeat.com/minus/me3a.jpg
-www.kiwisbybeat.com/minus/me3b.jpg
-www.kiwisbybeat.com/minus/me3c.jpg
-www.kiwisbybeat.com/minus/me3d.jpg
-www.kiwisbybeat.com/minus/me3e.jpg
-www.kiwisbybeat.com/pics/mnus1.gif
 www.kiwisbybeat.com/pics/mnus2.gif
 www.kiwisbybeat.com/pics/mnus3.gif
 www.kiwisbybeat.com/pics/mnus4.gif
@@ -320,12 +291,8 @@ www.kiwisbybeat.com/socks/ys2.jpg
 www.kiwisbybeat.com/socks/ys3.jpg
 www.kiwisbybeat.com/socks/s2.jpg
 www.kiwisbybeat.com/socks/s3.jpg
-www.kiwisbybeat.com/illu/prints.jpg
-www.kiwisbybeat.com/pics/minuscover.jpg
 www.kiwisbybeat.com/illu/mfs1.jpg
 www.kiwisbybeat.com/illu/mfs2.png
-www.kiwisbybeat.com/illu/greatv1.jpg
-www.kiwisbybeat.com/illu/greatv2.jpg
 ```
 
 The following files were incompletely recovered (lower resolution versions only):
