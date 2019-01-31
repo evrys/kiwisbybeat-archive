@@ -1,5 +1,7 @@
 # kiwisbybeat-archive
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de994cb4-38ef-43ef-9c65-34a1a4035ed7/deploy-status)](https://app.netlify.com/sites/kiwisbybeat/deploys)
+
 This is an archive of the website and artistic works of webcomic artist [Ryan Armand](https://en.wikipedia.org/wiki/Ryan_Armand), hosted as a mirror site here: https://kiwisbybeat.netlify.com/
 
 Ryan's domain registrations expired in Jan 2016 and [nobody knows what happened to him](https://www.reddit.com/r/comics/comments/44g0w5/kiwis_by_beat_website_down/). His comics were pretty important to me as a teenager (especially minus!) and I think it would be sad to let them fade from cultural history. Under the circumstances, I'm assuming that he would be okay with fans attempting to preserve public access to his work. If you are Ryan or have an idea of whether he's okay, please feel free to [contact me](mailto:jaiden@mispy.me)!
