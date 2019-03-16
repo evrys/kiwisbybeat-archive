@@ -303,7 +303,7 @@ I haven't (yet) attempted to preserve Ryan's earlier website/comic, Ribald Youth
     - `http://www.kiwisbybeat.com/ => /`
     - `http://www.kiwisbybeat.com => /`
     - `�������̕��� => 金魚王国の崩壊`
-    - `"www.nickstjohn.net/Home.html => "http://www.nickstjohn.net/Home.html`
+    - `"http://www.nickstjohn.net/Home.html => "http://www.nickstjohn.net/Home.html`
 - Missing images from several comics were restored using the existing crowdsourced collection available at https://mega.nz/#F!xAI33KwI!9-dqzpWhZ1b-ohcsK6Mfzg!tUxTFBpA
 - Converted all html files to utf-8 encoding using vim method at https://stackoverflow.com/a/35329638/1983739
 - Archive published using static site host Netlify, configured for lossless image compression
