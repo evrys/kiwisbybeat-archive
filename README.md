@@ -292,7 +292,6 @@ www.kiwisbybeat.com/purul/pelen55.jpg
 www.kiwisbybeat.com/purul/pelen56.jpg
 www.kiwisbybeat.com/purul/pelen57.jpg
 www.kiwisbybeat.com/purul/pelen58.jpg
-www.kiwisbybeat.com/purul/pelen61.jpg
 ```
 
 I haven't (yet) attempted to preserve Ryan's earlier website/comic, Ribald Youth.
