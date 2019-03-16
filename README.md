@@ -304,10 +304,6 @@ www.kiwisbybeat.com/pics/nighta.jpg
 www.kiwisbybeat.com/pics/ordering.jpg
 www.kiwisbybeat.com/pics/paypalad.jpg
 www.kiwisbybeat.com/pics/piecebg.jpg
-www.kiwisbybeat.com/pics/pig1.gif
-www.kiwisbybeat.com/pics/pig2.gif
-www.kiwisbybeat.com/pics/pig3.gif
-www.kiwisbybeat.com/pics/pig4.gif
 www.kiwisbybeat.com/pics/pigboyp.jpg
 www.kiwisbybeat.com/pics/poopbus3.gif
 www.kiwisbybeat.com/pics/popi.gif
