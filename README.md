@@ -59,7 +59,6 @@ www.kiwisbybeat.com/fist/fist86.png
 www.kiwisbybeat.com/fist/fist87.png
 www.kiwisbybeat.com/fist/fist88.png
 www.kiwisbybeat.com/fist/fist89.png
-www.kiwisbybeat.com/modern/modern920.jpg
 www.kiwisbybeat.com/minus/prints2.jpg
 www.kiwisbybeat.com/minus/prints3.jpg
 www.kiwisbybeat.com/minus/prints6.jpg
