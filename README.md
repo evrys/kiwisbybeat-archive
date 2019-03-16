@@ -62,14 +62,12 @@ www.kiwisbybeat.com/fist/fist86.png
 www.kiwisbybeat.com/fist/fist87.png
 www.kiwisbybeat.com/fist/fist88.png
 www.kiwisbybeat.com/fist/fist89.png
-www.kiwisbybeat.com/store.html#great
 www.kiwisbybeat.com/md41ch.html
 www.kiwisbybeat.com/mdchapter9.html
 www.kiwisbybeat.com/md68.html
 www.kiwisbybeat.com/pics/prints.jpg
 www.kiwisbybeat.com/mnus.html
 www.kiwisbybeat.com/md69.html
-www.kiwisbybeat.com/store.html#mfs2
 www.kiwisbybeat.com/modern63.html
 www.kiwisbybeat.com/modern65.html
 www.kiwisbybeat.com/modern76.html
@@ -77,7 +75,6 @@ www.kiwisbybeat.com/modern77.html
 www.kiwisbybeat.com/modern81.html
 www.kiwisbybeat.com/modern84.html
 www.kiwisbybeat.com/modern88.html
-www.kiwisbybeat.com/store.html#mfs
 www.kiwisbybeat.com/people8.html
 www.kiwisbybeat.com/pics/asad2/
 www.kiwisbybeat.com/pics/1153032476812.jpg
@@ -581,9 +578,6 @@ www.kiwisbybeat.com/socks/page64.jpg
 www.kiwisbybeat.com/socks/page65.jpg
 www.kiwisbybeat.com/socks/page66.jpg
 www.kiwisbybeat.com/socks/page67.jpg
-www.kiwisbybeat.com/socks/ys1.jpg
-www.kiwisbybeat.com/socks/ys2.jpg
-www.kiwisbybeat.com/socks/ys3.jpg
 www.kiwisbybeat.com/socks/s2.jpg
 www.kiwisbybeat.com/socks/s3.jpg
 www.kiwisbybeat.com/illu/green.jpg
