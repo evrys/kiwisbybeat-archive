@@ -13,7 +13,7 @@ for (const file of htmlFiles) {
     for (const a of $("a").toArray()) {
         const href = a.attribs.href
         if (href && href.length > 1 && !href.match(/^http/)) {
-            const relPath = path.join(path.dirname(file), a.attribs.href)
+            const relPath = path.join(path.dirname(file), a.attribs.href.replace(/#.+/, ''))
             if (!fs.existsSync(relPath) && !seenPaths[relPath]) {
                 console.log(relPath)
                 seenPaths[relPath] = true
