@@ -6,7 +6,7 @@ This is an archive of the website and artistic works of webcomic artist [Ryan Ar
 
 Ryan's domain registrations expired in Jan 2016 and [nobody knows what happened to him](https://www.reddit.com/r/comics/comments/44g0w5/kiwis_by_beat_website_down/). His comics were pretty important to me as a teenager (especially minus!) and I think it would be sad to let them fade from cultural history. Under the circumstances, I'm assuming that he would be okay with fans attempting to preserve public access to his work. If you are Ryan or have an idea of whether he's okay, please feel free to [contact me](mailto:jaiden@mispy.me)!
 
-This archive is based heavily on the efforts of the existing mirror at http://kiwisbybeat.16mb.com/. However, as of the time of writing (9 Sep 2018) the postimg embeds on there were broken. My hope is that by drawing the collation together into a GitHub repository it will be more enduring, since anyone can then host their own mirror easily by forking or downloading the repo.
+This archive is based heavily on the efforts of previous mirror attempts by others. My hope is that by drawing the collation together into a GitHub repository it will be more enduring, since anyone can then host their own mirror easily by forking or downloading the repo.
 
 ## Missing files
 
@@ -615,4 +615,4 @@ You can make specific queries to archive.org using [wayback_machine_downloader](
 
 git and GitHub are delightfully flexible tools for solving a wide variety of file manipulation, distribution and history-tracking problems beyond simply revision control for codebases. However, they do have their limits; using git for this is only easy because the archive is relatively small (<1GB).
 
-The existing mirror shows there can be a lot of public interest and effort directed towards cultural archival in some cases. If general audiences had better access to more user-friendly tools with similar power like GitHub and Netlify, I think they could do even more awesome stuff.
+Previous mirroring attempts show there can be a lot of public interest and effort directed towards cultural archival in some cases. If general audiences had better access to more user-friendly tools with similar power like GitHub and Netlify, I think they could do even more awesome stuff.
