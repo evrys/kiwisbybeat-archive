@@ -442,8 +442,6 @@ www.kiwisbybeat.com/socks/page144.jpg
 www.kiwisbybeat.com/socks/page145.jpg
 www.kiwisbybeat.com/socks/page146.jpg
 www.kiwisbybeat.com/socks/page147.jpg
-www.kiwisbybeat.com/socks/page148.jpg
-www.kiwisbybeat.com/socks/page149.jpg
 www.kiwisbybeat.com/socks/page150.jpg
 www.kiwisbybeat.com/socks/page151.jpg
 www.kiwisbybeat.com/socks/page152.jpg
