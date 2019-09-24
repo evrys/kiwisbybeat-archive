@@ -8,6 +8,8 @@ Ryan's domain registrations expired in Jan 2016 and [nobody knows what happened 
 
 This archive is based heavily on the efforts of previous mirror attempts by others. My hope is that by drawing the collation together into a GitHub repository it will be more enduring, since anyone can then host their own mirror easily by forking or downloading the repo.
 
+The philosophy of the repo here is to preserve the original website as closely as possible; if you're just looking to read the comics themselves in a modern format, check out Michael Colianna's archive at https://kiwisbybeat.net
+
 ## Missing files
 
 The archive.org copy of kiwisbybeat.com is incomplete. Most comics were recovered from other sources by fans in this [Mega folder](https://mega.nz/#F!xAI33KwI!9-dqzpWhZ1b-ohcsK6Mfzg!tUxTFBpA), but some remain an enigma.
